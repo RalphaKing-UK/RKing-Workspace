@@ -293,22 +293,27 @@ to switch instantly.
 
 ### Dark
 ![Dark](docs/images/theme-dark.png)
+![Dark](docs/images/dark.png)
 
 ### Light
 ![Light](docs/images/theme-light.png)
+![Light](docs/images/light.png)
 
 ### Mocha
 ![Mocha](docs/images/theme-mocha.png)
+![Mocha](docs/images/mocha.png)
 
 ### Nord
 ![Nord](docs/images/theme-nord.png)
+![Nord](docs/images/nord.png)
 
 ### Rose Pine
 ![Rose Pine](docs/images/theme-rose.png)
+![Rose Pine](docs/images/rose.png)
 
 ### Hacker
 ![Hacker](docs/images/theme-hacker.png)
-
+![Hacker](docs/images/hacker.png)
 
 ---
 
